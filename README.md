@@ -20,11 +20,16 @@
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
 <br>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
+ </br>
+<br>
 <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=Flask&logoColor=white"/>
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
+<img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img alt="AWS EC2" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img alt="VS Code" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=flat-square&logo=Visual Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
-<br>
+</br>
 </p>
 </div>
 <!-- https://simpleicons.org/?q=java --></br>
