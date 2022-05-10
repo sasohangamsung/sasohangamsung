@@ -1,7 +1,7 @@
 <div>
 <br>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=사소한감성의+&nbsp;+Git+hub+˙ᵕ˙+&nbsp;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Sasohangamsung's+&nbsp;+Git+hub+˙ᵕ˙+&nbsp;)
 </div>
 
 
@@ -11,14 +11,14 @@
   <h5> ⦁ 코드스테이츠 AI 부트캠프 2021.08 - 2022.4 </h5>
   <h5> ⦁ 중국 출장 (하이닉스 협력업체 WUXI 공장 PLC SW Engineer 근무) 2018.12 - 2021.06 </h5>
   <h5> ⦁ 충남인력개발원 자동화시스템제어 2018.02 - 2018.12 </h5>
-  <h5> ⦁ 병점고등학교 이과계열 2007.03 - 2010.02</h5>
+  <h5> ⦁ 병점고등학교 이과계열 2007.03 - 2010.02 </h5>
 </div>
 </br>  
 <!-- 교육사항 끝 -->
 
 <!-- 기술스택 시작 -->
 <div align='left'><h3><b>🛠 Tech Stack </b></h3>
-><br>
+<br>
 
 <!--<img src="https://img.shields.io/badge/JPA-232F3E?style=flat-square&logo=Spreadshirt&logoColor=white"/>-->
 <br>
