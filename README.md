@@ -1,3 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&text=사소한감성)
+<div>
+<br>
+ 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=사+소+한+감+Ha+Yoon+˙ᵕ˙+&nbsp;)
+</div>
 
-<img src="https://img.shields.io/badge/blue?style=for-the-badge&logo=#3776AB&logoColor=black">
+
