@@ -38,6 +38,5 @@
 <!-- 연락처 시작 -->
 ### 📫 How to reach me
 - 포트폴리오: https://drive.google.com/file/d/1JCybhKodyd8_gODHK0DimcBIpgwm_RqD/view?usp=sharing
-- 이력서: https://drive.google.com/file/d/1ELoJM-sUGDQsZAJgvzK_5ZspCIkd0N6BCNG8--pPWQg/view
 - 이메일: sasohangamsung@naver.com
 <!-- 연락처 끝 -->
